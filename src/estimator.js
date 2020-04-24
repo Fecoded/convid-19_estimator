@@ -1,4 +1,3 @@
-/* eslint-disable linebreak-style */
 const covid19ImpactEstimator = (data) => {
   const {
     reportedCases, totalHospitalBeds, periodType, timeToElapse
